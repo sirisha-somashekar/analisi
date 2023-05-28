@@ -1,0 +1,1 @@
+- multiple day work could be handled through progress bar and can be slipt to days
